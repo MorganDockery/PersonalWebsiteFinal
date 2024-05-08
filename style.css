@@ -120,7 +120,12 @@ form{
           padding-left: 8em;
           padding-top: 1em;
      }
-     
+     .lock{
+          margin-left:18em;
+     }
+     .numbers{
+          margin-left:25em;
+     }
      /* id section */
      #wrapper{   
           padding: 2em;
@@ -271,6 +276,12 @@ form{
           padding-left: 10%;
           padding-top: 2em;
      }
+     .lock{
+          margin-left:18em;
+     }
+     .numbers{
+          margin-left:25em;
+     }
      
      /* id section */
      #wrapper{   
@@ -408,6 +419,13 @@ form{
           height: 20vh;  /*Measurememt based on device screen size*/
           padding-left: 10%;
           padding-top: 2em;
+     }
+     
+     .lock{
+          margin-left:18em;
+     }
+     .numbers{
+          margin-left:25em;
      }
      
      /* id section */
