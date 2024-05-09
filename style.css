@@ -30,6 +30,11 @@ form{
           width: 9em;
      }
 
+     img{
+          width: 5%;
+          height: 5%;
+     }
+
      body{
           margin: 0;
           background-color: #D29F9F;
@@ -121,10 +126,10 @@ form{
           padding-top: 1em;
      }
      .lock{
-          margin-left:18em;
+          margin-left:25%;
      }
      .numbers{
-          margin-left:25em;
+          margin-left: 25%;
      }
      /* id section */
      #wrapper{   
@@ -192,6 +197,11 @@ form{
           grid-column: 2;
           width: 9em;
      }
+     img{
+          width: 5%;
+          height: 5%;
+     }
+
      body{
           margin: 0;
           background-color: #D29F9F;
@@ -277,10 +287,10 @@ form{
           padding-top: 2em;
      }
      .lock{
-          margin-left:18em;
+          margin-left:25%;
      }
      .numbers{
-          margin-left:25em;
+          margin-left: 25%;
      }
      
      /* id section */
@@ -338,6 +348,11 @@ form{
           color:#40407A;
           font-family: Verdana, Arial, sans-serif;
      }
+     img{
+          width: 5%;
+          height: 5%;
+     }
+
      header{
           /* background-color: #80CBC4; */
           background-image: url("images/sunrise.jpg");
@@ -422,10 +437,10 @@ form{
      }
      
      .lock{
-          margin-left:18em;
+          margin-left:25%;
      }
      .numbers{
-          margin-left:25em;
+          margin-left: 25%;
      }
      
      /* id section */
